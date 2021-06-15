@@ -1,1 +1,9 @@
 print("Hello World") #works
+name = "LeBron"
+age = 35
+salary = 37.44
+plays_basketball = True
+jersey_number = "23"
+car_name = "Audi"
+x = 50
+my_first_name = "Angelica"
